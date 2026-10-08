@@ -1,166 +1,180 @@
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║                    ISIDRO VERA                           ║
-  ║          Software • Industry • Sustainability            ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-# 👨‍💻 ISIDRO VERA
+<!-- ========================================================= -->
 
-### `Software Engineer` · `Environmental Engineer` · `Industrial Technology`
+<!--                       HERO BANNER                          -->
+
+<!-- ========================================================= -->
+
+<img src="./assets/isidro-vera-banner.png" width="100%" alt="Isidro Vera - Technology Industry Sustainability">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=850&lines=Ingenier%C3%ADa+%7C+Tecnolog%C3%ADa+%7C+Industria+%7C+Sostenibilidad;Construyendo+soluciones+para+problemas+reales;Automatizaci%C3%B3n+%7C+Datos+%7C+Sistemas+%7C+Innovaci%C3%B3n;Software+%2B+Industria+%2B+Sostenibilidad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E6A7&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEER+%7C+ENVIRONMENTAL+ENGINEER;TECHNOLOGY+%2B+INDUSTRY+%2B+SUSTAINABILITY;AUTOMATION+%7C+DATA+%7C+CYBERSECURITY;CODE+%C2%B7+AUTOMATE+%C2%B7+OPTIMIZE+%C2%B7+SUSTAIN" alt="Typing SVG">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=veraisidro&label=PROFILE%20VIEWS&color=00C896&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=veraisidro&label=PROFILE%20VIEWS&color=00C896&style=for-the-badge">
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-Soy **Isidro Vera**, ingeniero informático e ingeniero ambiental, con una visión interdisciplinaria orientada a integrar **tecnología, industria y sostenibilidad**.
+<table>
+<tr>
 
-Mi enfoque consiste en transformar problemas técnicos y operativos en **soluciones digitales eficientes, automatizadas, seguras y escalables**.
+<td width="55%" valign="top">
 
-Me interesa especialmente la intersección entre:
+### 🧠 ISIDRO VERA
 
-```text
-        SOFTWARE
-            │
-            ▼
-      AUTOMATIZACIÓN
-            │
-            ▼
-         DATOS
-            │
-            ▼
-        INDUSTRIA
-            │
-            ▼
-     SOSTENIBILIDAD
-```
+Soy **ingeniero informático e ingeniero ambiental**, con una visión interdisciplinaria enfocada en conectar **tecnología, industria y sostenibilidad**.
 
----
+Mi objetivo es transformar problemas técnicos y operativos en soluciones digitales:
 
-## 💻 Ingeniería Informática
+* ⚙️ Eficientes
+* 🔐 Seguras
+* 📊 Basadas en datos
+* 🚀 Escalables
+* 🌱 Sostenibles
 
-Mi trabajo tecnológico está orientado principalmente a:
+Me interesa especialmente la aplicación de la tecnología en **procesos industriales, automatización, análisis de datos, gestión de recursos y optimización operacional**.
 
-* 🌐 Desarrollo de aplicaciones y sistemas web
-* ⚙️ Automatización de procesos
-* 📊 Análisis y visualización de datos
-* 🗄️ Diseño y administración de bases de datos
-* 🔗 Integración de sistemas y soluciones ERP
-* 📈 Optimización de rendimiento digital
-* ☁️ Cloud computing e infraestructura
-* 🧩 Desarrollo de herramientas empresariales
-* 🛡️ Seguridad y buenas prácticas de desarrollo
+</td>
 
----
+<td width="45%" valign="top">
 
-## 🏭 Industria & Siderurgia
-
-Uno de mis principales campos de interés es la **industria siderúrgica y metalúrgica**.
-
-Aplico herramientas tecnológicas para mejorar:
-
-* Producción
-* Control de calidad
-* Trazabilidad
-* Mantenimiento
-* Gestión de recursos
-* Automatización
-* Análisis de información
-* Indicadores de producción
-* Gestión documental
-* Optimización de procesos
-
-Mi objetivo es conectar el mundo del software con las necesidades reales de una planta industrial.
+### 🎯 CORE AREAS
 
 ```text
-┌─────────────────────────────────────────────┐
-│             INDUSTRIAL DIGITALIZATION       │
-├─────────────────────────────────────────────┤
-│                                             │
-│   Producción ────────► Datos                │
-│       │                  │                  │
-│       ▼                  ▼                  │
-│   Automatización ───► Análisis              │
-│       │                  │                  │
-│       └──────────┬───────┘                  │
-│                  ▼                          │
-│           Mejores decisiones                │
-│                                             │
-└─────────────────────────────────────────────┘
+SOFTWARE
+Development
+Automation
+Data
+ERP
+Cloud
+
+INDUSTRY
+Production
+Quality
+Maintenance
+Traceability
+Optimization
+
+SUSTAINABILITY
+Energy
+Waste
+Resources
+Clean Technology
+
+SECURITY
+Auditing
+Protection
+Vulnerabilities
+Infrastructure
 ```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌱 Ingeniería Ambiental
+# 🧩 Engineering Areas
 
-La tecnología también puede ser una herramienta para construir procesos industriales más eficientes y sostenibles.
+<table>
+<tr>
 
-Mis áreas de interés incluyen:
+<td width="25%" align="center">
 
-* ♻️ Gestión de residuos
-* ⚡ Eficiencia energética
-* 🌎 Reducción del impacto ambiental
-* 🏭 Optimización de procesos industriales
-* 💧 Gestión eficiente de recursos
-* 🔬 Tecnologías limpias
-* 📊 Monitoreo y análisis ambiental
-* 🔄 Economía circular
+## 💻
 
----
+### SOFTWARE
 
-## 🔐 Cybersecurity
+Desarrollo web
+Automatización
+Bases de datos
+ERP
+Cloud
+APIs
 
-También tengo interés en el área de **ciberseguridad**, explorando diferentes aspectos relacionados con la protección de sistemas y datos.
+</td>
 
-```text
-Security
-   │
-   ├── 🔎 Vulnerability Analysis
-   ├── 🛡️ System Protection
-   ├── 🔐 Data Security
-   ├── 🧪 Security Testing
-   └── 📋 IT Auditing
-```
+<td width="25%" align="center">
+
+## 🏭
+
+### INDUSTRIA
+
+Producción
+Calidad
+Mantenimiento
+Trazabilidad
+Procesos
+Siderurgia
+
+</td>
+
+<td width="25%" align="center">
+
+## 🌱
+
+### AMBIENTE
+
+Residuos
+Energía
+Recursos
+Impacto ambiental
+Tecnologías limpias
+
+</td>
+
+<td width="25%" align="center">
+
+## 🔐
+
+### SECURITY
+
+Auditoría
+Datos
+Vulnerabilidades
+Aplicaciones
+Infraestructura
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # ⚙️ Tech Stack
 
-## 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,html,css,bash,powershell" />
 
 </p>
 
 ---
 
-## 🌐 Web Development
+## 🌐 Web & Frameworks
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=laravel,wordpress,vue,react,sass" />
 
 </p>
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" />
+<img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black">
 
-<img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
+<img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
 
 </p>
 
@@ -168,17 +182,17 @@ Security
 
 ## 🗄️ Databases
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 
 </p>
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 
 </p>
 
@@ -186,17 +200,17 @@ Security
 
 ## ☁️ Cloud & Infrastructure
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=gcp,docker,linux,windows,cloudflare" />
 
 </p>
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white">
 
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
 
 </p>
 
@@ -204,118 +218,115 @@ Security
 
 ## 📊 Data & Analytics
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-</p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
-<p align="left">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-<img src="https://img.shields.io/badge/VBA-8674A1?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 
 </p>
 
----
+<p align="center">
 
-## 🛠️ Development Tools
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
-<p align="left">
+<img src="https://img.shields.io/badge/VBA-8674A1?style=for-the-badge&logo=microsoft&logoColor=white">
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,arduino" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-</p>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 
 </p>
 
 ---
 
-# 🚀 What I Build
+# 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-|     💻 SOFTWARE    |      🏭 INDUSTRY      |
-| :----------------: | :-------------------: |
-|  Web Applications  |   Industrial Systems  |
-| Process Automation | Production Management |
-|        APIs        |    Quality Control    |
-|   ERP Integration  |      Traceability     |
-|    Data Systems    |  Process Optimization |
+<td width="50%" valign="top">
 
-|      📊 DATA     |     🌱 SUSTAINABILITY    |
-| :--------------: | :----------------------: |
-|     Analytics    |   Resource Optimization  |
-|    Dashboards    |     Waste Management     |
-|     Power BI     |     Energy Efficiency    |
-| Machine Learning | Environmental Management |
+### 🏭 Industrial Management Systems
 
-</div>
+Digital solutions for:
 
----
+* Production
+* Quality control
+* Inventory
+* Traceability
+* Operational management
 
-# 📂 Featured Projects
+`Python` `JavaScript` `SQL` `Power BI`
 
-## 🏭 Industrial Management Systems
+</td>
 
-Development of digital solutions focused on **production, quality control, inventory, traceability and operational management**.
+<td width="50%" valign="top">
 
-**Technologies:**
+### ⚡ Process Automation
 
-`Python` `JavaScript` `SQL` `Excel` `Power BI`
+Automation of repetitive processes using:
 
----
-
-## ⚡ Process Automation
-
-Automation of repetitive administrative and operational processes through **Excel VBA, Python, databases and integrated systems**.
-
-**Technologies:**
+* Excel
+* VBA
+* Python
+* Databases
+* Integrated systems
 
 `Python` `VBA` `Excel` `SQL`
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Industrial Data Analytics
+
+Transforming production information into:
+
+* Dashboards
+* KPIs
+* Reports
+* Decision-support systems
+
+`Python` `SQL` `Power BI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Sustainable Technology
+
+Technology applied to:
+
+* Resource efficiency
+* Waste management
+* Energy optimization
+* Environmental performance
+
+`Data` `Automation` `Industry`
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 📊 Industrial Data Analytics
-
-Transformation of operational and production data into **dashboards, indicators and decision-support systems**.
-
-**Technologies:**
-
-`Python` `SQL` `Power BI` `Data Analysis`
-
----
-
-## 🌱 Sustainable Technology
-
-Development of technology-driven approaches for improving **resource efficiency, waste management and environmental performance**.
-
-**Technologies:**
-
-`Data` `Automation` `Environmental Engineering` `Industry`
-
----
-
-# 📈 GitHub Analytics
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=veraisidro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=veraisidro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00C896&icon_color=00C896&text_color=FFFFFF">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=veraisidro&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=veraisidro&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00C896&text_color=FFFFFF">
 
 </div>
 
@@ -323,7 +334,7 @@ Development of technology-driven approaches for improving **resource efficiency,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=veraisidro&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=veraisidro&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896">
 
 </div>
 
@@ -333,119 +344,180 @@ Development of technology-driven approaches for improving **resource efficiency,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veraisidro&bg_color=00000000&color=00C896&line=00C896&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veraisidro&bg_color=00000000&color=00E6A7&line=00E6A7&point=FFFFFF&area=true&hide_border=true">
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=veraisidro&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=veraisidro&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
 
 </div>
 
 ---
 
-# 🧩 Currently Exploring
+# 🔬 Currently Exploring
 
-```yaml
-Technology:
-  - Artificial Intelligence
-  - Cybersecurity
-  - Industrial Automation
-  - Data Engineering
-  - Cloud Computing
+<table>
+<tr>
 
-Industry:
-  - Smart Manufacturing
-  - Industrial Digitalization
-  - Process Optimization
-  - Quality Management
-  - Industrial Data
+<td width="33%" valign="top">
 
-Sustainability:
-  - Energy Efficiency
-  - Waste Management
-  - Clean Technologies
-  - Environmental Data
-  - Circular Economy
-```
+### 🤖 Technology
+
+* Artificial Intelligence
+* Machine Learning
+* Cybersecurity
+* Automation
+* Data Engineering
+* Cloud Computing
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏭 Industry
+
+* Smart Manufacturing
+* Industrial Digitalization
+* Process Optimization
+* Quality Management
+* Industrial Data
+* Automation
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌱 Sustainability
+
+* Energy Efficiency
+* Waste Management
+* Clean Technologies
+* Environmental Data
+* Circular Economy
+* Resource Optimization
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🎯 Engineering Philosophy
+# 🧠 Engineering Philosophy
 
 <div align="center">
 
-### "Technology is most valuable when it solves real problems."
+> ### "Technology is most valuable when it solves real problems."
 
 <br>
 
-**Code. Automate. Optimize. Sustain.**
-
-</div>
-
-Mi objetivo es desarrollar soluciones que no solamente funcionen, sino que sean:
-
 ```text
-        ┌───────────────┐
-        │   EFFICIENT   │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    SECURE     │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │   SCALABLE    │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │  SUSTAINABLE  │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    IMPACT     │
-        └───────────────┘
+              PROBLEM
+                 │
+                 ▼
+              ANALYSIS
+                 │
+                 ▼
+             TECHNOLOGY
+                 │
+                 ▼
+            AUTOMATION
+                 │
+                 ▼
+               DATA
+                 │
+                 ▼
+            OPTIMIZATION
+                 │
+                 ▼
+              IMPACT
 ```
 
----
-
-# 🔬 Engineering × Technology × Industry
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=00C896&center=true&vCenter=true&width=700&lines=Software+Engineering;Industrial+Technology;Environmental+Engineering;Automation+%7C+Data+%7C+Innovation" />
-
 </div>
 
 ---
 
+# ⚡ The Mission
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 💻
+
+**CODE**
+
+Build useful
+digital solutions.
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️
+
+**AUTOMATE**
+
+Eliminate repetitive
+processes.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊
+
+**OPTIMIZE**
+
+Use data to make
+better decisions.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🌱
+
+**SUSTAIN**
+
+Create efficient and
+responsible systems.
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-### 👨‍💻 Isidro Vera
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1000&color=00E6A7&center=true&vCenter=true&width=750&lines=CODE+%C2%B7+AUTOMATE+%C2%B7+OPTIMIZE+%C2%B7+SUSTAIN;ENGINEERING+%C3%97+TECHNOLOGY+%C3%97+INDUSTRY;BUILDING+SOLUTIONS+FOR+REAL+PROBLEMS" alt="Final Animation">
+
+<br><br>
+
+### 👨‍💻 ISIDRO VERA
 
 `Engineering` · `Technology` · `Industry` · `Sustainability`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=veraisidro&label=VISITORS&color=00C896&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=veraisidro&label=VISITORS&color=00C896&style=flat-square">
 
 </div>
 
 ---
 
 <!--
-████████████████████████████████████████████████████████████
-
-                 CODE • AUTOMATE • OPTIMIZE
-
-████████████████████████████████████████████████████████████
+============================================================
+                     ISIDRO VERA
+             CODE • AUTOMATE • OPTIMIZE
+============================================================
 -->
