@@ -1,24 +1,451 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Isidro Vera, ingeniero informático e ingeniero ambiental con una visión integral que une la tecnología con la sostenibilidad.  <br><br>💻 En el área informática, me especializo en:<br>- Desarrollo web y optimización de sistemas<br>- Automatización de procesos con Excel avanzado y VBA<br>- Análisis de rendimiento digital (Core Web Vitals)<br>- Integración de soluciones ERP para gestión industrial<br><br>🏭 En el ámbito industrial, tengo expertise en **siderúrgicas y metalurgia**, aplicando herramientas tecnológicas para mejorar la eficiencia en producción, mantenimiento y gestión de recursos.  <br><br>🌱 Como **ingeniero ambiental**, me interesa la innovación sostenible:<br>- Implementación de prácticas responsables en la industria<br>- Optimización energética y reducción de impacto ambiental<br>- Uso de tecnologías limpias y gestión de residuos<br><br>🔐 Soy también **aficionado a la ciberseguridad**, explorando auditorías informáticas, protección de datos y análisis de vulnerabilidades para fortalecer la seguridad digital.  <br><br>🚀 Mi objetivo es aportar soluciones prácticas, seguras y sostenibles, uniendo la ingeniería informática con la ambiental para crear un impacto positivo en la industria y la sociedad.<br>
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║                    ISIDRO VERA                           ║
+  ║          Software • Industry • Sustainability            ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
 
+<div align="center">
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=veraisidro&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=veraisidro&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=veraisidro&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👨‍💻 ISIDRO VERA
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=veraisidro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### `Software Engineer` · `Environmental Engineer` · `Industrial Technology`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=veraisidro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=850&lines=Ingenier%C3%ADa+%7C+Tecnolog%C3%ADa+%7C+Industria+%7C+Sostenibilidad;Construyendo+soluciones+para+problemas+reales;Automatizaci%C3%B3n+%7C+Datos+%7C+Sistemas+%7C+Innovaci%C3%B3n;Software+%2B+Industria+%2B+Sostenibilidad" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=veraisidro&label=PROFILE%20VIEWS&color=00C896&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=veraisidro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+Soy **Isidro Vera**, ingeniero informático e ingeniero ambiental, con una visión interdisciplinaria orientada a integrar **tecnología, industria y sostenibilidad**.
+
+Mi enfoque consiste en transformar problemas técnicos y operativos en **soluciones digitales eficientes, automatizadas, seguras y escalables**.
+
+Me interesa especialmente la intersección entre:
+
+```text
+        SOFTWARE
+            │
+            ▼
+      AUTOMATIZACIÓN
+            │
+            ▼
+         DATOS
+            │
+            ▼
+        INDUSTRIA
+            │
+            ▼
+     SOSTENIBILIDAD
+```
+
+---
+
+## 💻 Ingeniería Informática
+
+Mi trabajo tecnológico está orientado principalmente a:
+
+* 🌐 Desarrollo de aplicaciones y sistemas web
+* ⚙️ Automatización de procesos
+* 📊 Análisis y visualización de datos
+* 🗄️ Diseño y administración de bases de datos
+* 🔗 Integración de sistemas y soluciones ERP
+* 📈 Optimización de rendimiento digital
+* ☁️ Cloud computing e infraestructura
+* 🧩 Desarrollo de herramientas empresariales
+* 🛡️ Seguridad y buenas prácticas de desarrollo
+
+---
+
+## 🏭 Industria & Siderurgia
+
+Uno de mis principales campos de interés es la **industria siderúrgica y metalúrgica**.
+
+Aplico herramientas tecnológicas para mejorar:
+
+* Producción
+* Control de calidad
+* Trazabilidad
+* Mantenimiento
+* Gestión de recursos
+* Automatización
+* Análisis de información
+* Indicadores de producción
+* Gestión documental
+* Optimización de procesos
+
+Mi objetivo es conectar el mundo del software con las necesidades reales de una planta industrial.
+
+```text
+┌─────────────────────────────────────────────┐
+│             INDUSTRIAL DIGITALIZATION       │
+├─────────────────────────────────────────────┤
+│                                             │
+│   Producción ────────► Datos                │
+│       │                  │                  │
+│       ▼                  ▼                  │
+│   Automatización ───► Análisis              │
+│       │                  │                  │
+│       └──────────┬───────┘                  │
+│                  ▼                          │
+│           Mejores decisiones                │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 🌱 Ingeniería Ambiental
+
+La tecnología también puede ser una herramienta para construir procesos industriales más eficientes y sostenibles.
+
+Mis áreas de interés incluyen:
+
+* ♻️ Gestión de residuos
+* ⚡ Eficiencia energética
+* 🌎 Reducción del impacto ambiental
+* 🏭 Optimización de procesos industriales
+* 💧 Gestión eficiente de recursos
+* 🔬 Tecnologías limpias
+* 📊 Monitoreo y análisis ambiental
+* 🔄 Economía circular
+
+---
+
+## 🔐 Cybersecurity
+
+También tengo interés en el área de **ciberseguridad**, explorando diferentes aspectos relacionados con la protección de sistemas y datos.
+
+```text
+Security
+   │
+   ├── 🔎 Vulnerability Analysis
+   ├── 🛡️ System Protection
+   ├── 🔐 Data Security
+   ├── 🧪 Security Testing
+   └── 📋 IT Auditing
+```
+
+---
+
+# ⚙️ Tech Stack
+
+## 👨‍💻 Programming
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,bash,powershell" />
+
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=laravel,wordpress,vue,react,sass" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</p>
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,linux,windows,cloudflare" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+
+</p>
+
+---
+
+## 📊 Data & Analytics
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VBA-8674A1?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,arduino" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+
+</p>
+
+---
+
+# 🚀 What I Build
+
+<div align="center">
+
+|     💻 SOFTWARE    |      🏭 INDUSTRY      |
+| :----------------: | :-------------------: |
+|  Web Applications  |   Industrial Systems  |
+| Process Automation | Production Management |
+|        APIs        |    Quality Control    |
+|   ERP Integration  |      Traceability     |
+|    Data Systems    |  Process Optimization |
+
+|      📊 DATA     |     🌱 SUSTAINABILITY    |
+| :--------------: | :----------------------: |
+|     Analytics    |   Resource Optimization  |
+|    Dashboards    |     Waste Management     |
+|     Power BI     |     Energy Efficiency    |
+| Machine Learning | Environmental Management |
+
+</div>
+
+---
+
+# 📂 Featured Projects
+
+## 🏭 Industrial Management Systems
+
+Development of digital solutions focused on **production, quality control, inventory, traceability and operational management**.
+
+**Technologies:**
+
+`Python` `JavaScript` `SQL` `Excel` `Power BI`
+
+---
+
+## ⚡ Process Automation
+
+Automation of repetitive administrative and operational processes through **Excel VBA, Python, databases and integrated systems**.
+
+**Technologies:**
+
+`Python` `VBA` `Excel` `SQL`
+
+---
+
+## 📊 Industrial Data Analytics
+
+Transformation of operational and production data into **dashboards, indicators and decision-support systems**.
+
+**Technologies:**
+
+`Python` `SQL` `Power BI` `Data Analysis`
+
+---
+
+## 🌱 Sustainable Technology
+
+Development of technology-driven approaches for improving **resource efficiency, waste management and environmental performance**.
+
+**Technologies:**
+
+`Data` `Automation` `Environmental Engineering` `Industry`
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=veraisidro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=veraisidro&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=veraisidro&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veraisidro&bg_color=00000000&color=00C896&line=00C896&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=veraisidro&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+---
+
+# 🧩 Currently Exploring
+
+```yaml
+Technology:
+  - Artificial Intelligence
+  - Cybersecurity
+  - Industrial Automation
+  - Data Engineering
+  - Cloud Computing
+
+Industry:
+  - Smart Manufacturing
+  - Industrial Digitalization
+  - Process Optimization
+  - Quality Management
+  - Industrial Data
+
+Sustainability:
+  - Energy Efficiency
+  - Waste Management
+  - Clean Technologies
+  - Environmental Data
+  - Circular Economy
+```
+
+---
+
+# 🎯 Engineering Philosophy
+
+<div align="center">
+
+### "Technology is most valuable when it solves real problems."
+
+<br>
+
+**Code. Automate. Optimize. Sustain.**
+
+</div>
+
+Mi objetivo es desarrollar soluciones que no solamente funcionen, sino que sean:
+
+```text
+        ┌───────────────┐
+        │   EFFICIENT   │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    SECURE     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │   SCALABLE    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  SUSTAINABLE  │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    IMPACT     │
+        └───────────────┘
+```
+
+---
+
+# 🔬 Engineering × Technology × Industry
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=00C896&center=true&vCenter=true&width=700&lines=Software+Engineering;Industrial+Technology;Environmental+Engineering;Automation+%7C+Data+%7C+Innovation" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 👨‍💻 Isidro Vera
+
+`Engineering` · `Technology` · `Industry` · `Sustainability`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=veraisidro&label=VISITORS&color=00C896&style=flat-square" />
+
+</div>
+
+---
+
+<!--
+████████████████████████████████████████████████████████████
+
+                 CODE • AUTOMATE • OPTIMIZE
+
+████████████████████████████████████████████████████████████
+-->
